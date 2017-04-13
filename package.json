@@ -1,0 +1,23 @@
+{
+  "name": "p-hex2rgb",
+  "version": "1.0.0",
+  "description": "Convert a hex color code in a rgb code, promisified",
+  "main": "p-hex2rgb.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jest"
+  },
+  "keywords": ["hex", "rgb", "convert", "promise"],
+  "author": {
+    "name": "Dominik Winter",
+    "email": "dominik.winter92@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^19.0.2"
+  },
+  "dependencies": {
+    "cut-hex": "^1.0.0",
+    "p-format-hex": "^1.0.0",
+    "p-is-hex": "^1.0.0"
+  }
+}
