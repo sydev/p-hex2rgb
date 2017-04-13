@@ -1,5 +1,7 @@
 # p-hex2rgb
 
+[![Build Status](https://travis-ci.org/sydev/p-hex2rgb.svg?branch=master)](https://travis-ci.org/sydev/p-hex2rgb)
+
 Convert a hex color code in a rgb code, promisified
 
 ## Table of contents
